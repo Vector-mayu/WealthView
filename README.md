@@ -257,7 +257,7 @@ VITE_GEMINI_API_KEY=your_api_key_here
 
 ## 🌐 Live Demo
 
-> (Add your deployed link here)
+> https://wealth-view-neon.vercel.app/
 
 ---
 
